@@ -17,13 +17,3 @@ I'm a self-taught FrontEnd developer from China 🇨🇳
 
 | <a href="https://github.com/LeeJim?tab=repositories&q=&type=&language=&sort=stargazers"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeJim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lijun's github stats" /></a> | <a href="https://github.com/LeeJim?tab=repositories&q=&type=&language=&sort=stargazers"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJim&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/Tencent/tdesign-miniprogram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tencent&repo=tdesign-miniprogram&theme=buefy" />
-</a>
-
-<a href="https://github.com/LeeJim/HowToCookOnMiniprogram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeeJim&repo=HowToCookOnMiniprogram&theme=buefy" />
-</a>
