@@ -7,7 +7,7 @@ I'm a self-taught FrontEnd developer from China 🇨🇳
 
 - 📈 Recently focused on [Wechat MiniProgram](https://developers.weixin.qq.com/miniprogram/dev/framework/) and [Vue](https://vuejs.org/)
 
-- 💡 You can see what I'm doing [here](https://projects.anyhub.com)
+- 💡 You can see what I'm doing [here](https://leejim.github.io/)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
