@@ -3,8 +3,6 @@ I'm a self-taught FrontEnd developer from China 🇨🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Tencent](https://www.tencent.com/)
-
 - 📈 Recently focused on [Wechat MiniProgram](https://developers.weixin.qq.com/miniprogram/dev/framework/) and [Vue](https://vuejs.org/)
 
 - 💡 You can see what I'm doing [here](https://leejim.github.io/)
