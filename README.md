@@ -3,7 +3,7 @@ I'm a self-taught FrontEnd developer from China 🇨🇳
 
 **About me**
 
-- 📈 Recently focused on [Wechat MiniProgram](https://developers.weixin.qq.com/miniprogram/dev/framework/) and [Vue](https://vuejs.org/)
+- 📈 Recently focused on [React](//react.dev/) and AI, and before that on [Wechat MiniProgram](https://developers.weixin.qq.com/miniprogram/dev/framework/) and [Vue](https://vuejs.org/)
 
 - 💡 You can see what I'm doing [here](https://leejim.github.io/)
 
